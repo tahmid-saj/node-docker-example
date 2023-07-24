@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartBrain-api - Final
 Final project for ZTM course
 
@@ -12,3 +13,6 @@ You can grab Clarifai API key [here](https://www.clarifai.com/)
 ** Make sure you use postgreSQL instead of mySQL for this code base.
 
 *visist https://zerotomastery.io/ for more*
+=======
+# node-docker-example
+>>>>>>> 971e9b2554ec2fb3028148a4814887e04ae51297
